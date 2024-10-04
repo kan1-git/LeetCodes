@@ -41,6 +41,8 @@ public class ThreeSum {
                 }
             }
         }
+    }
+}
 
         return triplets;
     }
